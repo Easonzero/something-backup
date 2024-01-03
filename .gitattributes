@@ -1,0 +1,2 @@
+alacritty. filter=lfs diff=lfs merge=lfs -text
+alacritty.exe filter=lfs diff=lfs merge=lfs -text

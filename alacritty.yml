@@ -1,0 +1,80 @@
+key_bindings:
+  - { key: F11, action: ToggleFullscreen }
+
+shell:
+ program: "C:\\Windows\\System32\\wsl.exe"
+ args:
+  - "~"
+startup_mode: Fullscreen
+font:
+  normal:
+    style: Medium
+    family: "FiraCode NF"
+
+  bold:
+    style: Bold
+    family: "Fira Code"
+
+  italic:
+    style: "Light Italic"
+    family: "Fira Code"
+
+  size: 12.0
+
+  offset:
+    x: 0
+    y: 0
+
+  glyph_offset:
+    x: 0
+    y: 0
+
+  use_thin_strokes: true
+
+draw_bold_text_with_bright_colors: false
+custom_cursor_colors: true
+
+bell:
+  animation: EaseOutExpo
+  color: '0xffffff'
+  duration: 0
+
+window:
+  opacity: 1.0
+
+mouse:
+  double_click: { threshold: 300 }
+  triple_click: { threshold: 300 }
+  hide_when_typing: true
+
+cursor:
+  style: Block
+  unfocused_hollow: true
+
+colors:
+  # Default colors
+  primary:
+    background: '0x1e282d'
+    foreground: '0xc4c7d1'
+
+  # Normal colors
+  normal:
+    black:   '0x666666'
+    red:     '0xeb606b'
+    green:   '0xc3e88d'
+    yellow:  '0xf7eb95'
+    blue:    '0x80cbc4'
+    magenta: '0xff2f90'
+    cyan:    '0xaeddff'
+    white:   '0xffffff'
+
+  # Bright colors
+  bright:
+    black:   '0xa1a1a1'
+    red:     '0xeb606b'
+    green:   '0xc3e88d'
+    yellow:  '0xf7eb95'
+    blue:    '0x7dc6bf'
+    magenta: '0x6c71c4'
+    cyan:    '0x35434d'
+    white:   '0xffffff'

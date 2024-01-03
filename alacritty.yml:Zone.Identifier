@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/alacritty/alacritty/releases
+HostUrl=https://github-releases.githubusercontent.com/51980455/7f19dbfa-be38-4942-8fe6-a02b731aa082?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211020T120148Z&X-Amz-Expires=300&X-Amz-Signature=4801625ffb0810251cd2eecd772a1ef4e5b32690b1a64e53894f7fe8857869d4&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=51980455&response-content-disposition=attachment%3B%20filename%3Dalacritty.yml&response-content-type=application%2Foctet-stream
